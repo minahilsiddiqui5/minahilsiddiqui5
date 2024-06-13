@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **minahilsiddiqui5@gmail.com**
 
-- 📄 Know about my experiences [I have done fine-tuning of the GPT-3.5 model for a project from the US. I have also completed two projects on Upwork, both related to data analysis and web scraping](I have done fine-tuning of the GPT-3.5 model for a project from the US. I have also completed two projects on Upwork, both related to data analysis and web scraping)
+- 📄 Know about my experiences : I have done fine-tuning of the GPT-3.5 model for a project from the US. I have also completed two projects on Upwork, both related to data analysis and web scraping
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
