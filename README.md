@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Manahil Siddiqui</h1>
-<h3 align="center">A Data Science intern at Pinnacle-FullStack Interns</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minahilsiddiqui5&label=Profile%20views&color=0e75b6&style=flat" alt="minahilsiddiqui5" /> </p>
 
